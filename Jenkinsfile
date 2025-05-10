@@ -5,4 +5,3 @@ stage('Deploy to K3s') {
         }
     }
 }
-
